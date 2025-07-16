@@ -1,0 +1,17 @@
+# Directorio de compilación de CMake
+/build/
+
+# Archivos generados por el compilador y el enlazador
+*.o
+*.a
+*.so
+*.dll
+
+# El ejecutable final
+yt-dlp-tui
+
+# Archivos de editores de código comunes
+.vscode/
+.idea/
+*.swp
+*~
